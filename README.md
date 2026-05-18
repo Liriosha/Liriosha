@@ -21,3 +21,7 @@ Not as active on here as I want to be, but I still do some!
 <img src="./profile/stats.svg"><img src="./profile/top-langs.svg">
 
 </div>
+
+<div align="center">
+ <img src="./profile/pin1.svg"> <img src="./profile/pin2.svg">
+</div>
