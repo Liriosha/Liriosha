@@ -38,6 +38,14 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=rbxserial&show_icons=true&theme=transparent
           path: profile/pin2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate top-langs
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
