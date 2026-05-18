@@ -31,13 +31,6 @@ jobs:
           path: profile/pin1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           
-      - name: Generate pin card 2
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=${{ github.repository_owner }}&repo=rbxserial&show_icons=true&theme=transparent
-          path: profile/pin2.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Generate top-langs
         uses: readme-tools/github-readme-stats-action@v1
