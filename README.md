@@ -24,5 +24,5 @@ Not as active on here as I want to be, but I still do some!
 
 <div align="center">
  
- <a href="https://github.com/liriosha/jiggy"><img src="./profile/pin1.svg"></a><a href="https://github.com/liriosha/rbxserial"><img src="./profile/pin2.svg"></a>
+ <a href="https://github.com/liriosha/jiggy"><img src="./profile/pin1.svg">
 </div>
